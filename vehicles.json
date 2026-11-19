@@ -1,0 +1,704 @@
+{
+  "vehicles": [
+    {
+      "vehicleId": "TEST_VEH001",
+      "capacity": 400,
+      "currentLatitude": 28.411255,
+      "currentLongitude": 77.028769,
+      "currentAddress": "Test Vehicle Location 1, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH002",
+      "capacity": 500,
+      "currentLatitude": 28.462792,
+      "currentLongitude": 76.916622,
+      "currentAddress": "Test Vehicle Location 2, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH003",
+      "capacity": 800,
+      "currentLatitude": 28.439122,
+      "currentLongitude": 77.124249,
+      "currentAddress": "Test Vehicle Location 3, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH004",
+      "capacity": 400,
+      "currentLatitude": 28.442163,
+      "currentLongitude": 77.00123,
+      "currentAddress": "Test Vehicle Location 4, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH005",
+      "capacity": 800,
+      "currentLatitude": 28.411941,
+      "currentLongitude": 76.979244,
+      "currentAddress": "Test Vehicle Location 5, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH006",
+      "capacity": 800,
+      "currentLatitude": 28.588784,
+      "currentLongitude": 77.141986,
+      "currentAddress": "Test Vehicle Location 6, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH007",
+      "capacity": 600,
+      "currentLatitude": 28.764244,
+      "currentLongitude": 76.854224,
+      "currentAddress": "Test Vehicle Location 7, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH008",
+      "capacity": 500,
+      "currentLatitude": 28.714163,
+      "currentLongitude": 77.071163,
+      "currentAddress": "Test Vehicle Location 8, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH009",
+      "capacity": 500,
+      "currentLatitude": 28.496891,
+      "currentLongitude": 77.346271,
+      "currentAddress": "Test Vehicle Location 9, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH010",
+      "capacity": 400,
+      "currentLatitude": 28.441736,
+      "currentLongitude": 76.912866,
+      "currentAddress": "Test Vehicle Location 10, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH011",
+      "capacity": 600,
+      "currentLatitude": 28.671677,
+      "currentLongitude": 77.374633,
+      "currentAddress": "Test Vehicle Location 11, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH012",
+      "capacity": 700,
+      "currentLatitude": 28.641303,
+      "currentLongitude": 77.482525,
+      "currentAddress": "Test Vehicle Location 12, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH013",
+      "capacity": 700,
+      "currentLatitude": 28.43546,
+      "currentLongitude": 77.040566,
+      "currentAddress": "Test Vehicle Location 13, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH014",
+      "capacity": 800,
+      "currentLatitude": 28.798453,
+      "currentLongitude": 77.085063,
+      "currentAddress": "Test Vehicle Location 14, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH015",
+      "capacity": 500,
+      "currentLatitude": 28.717057,
+      "currentLongitude": 76.879786,
+      "currentAddress": "Test Vehicle Location 15, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH016",
+      "capacity": 500,
+      "currentLatitude": 28.747881,
+      "currentLongitude": 77.490394,
+      "currentAddress": "Test Vehicle Location 16, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH017",
+      "capacity": 500,
+      "currentLatitude": 28.789918,
+      "currentLongitude": 77.097082,
+      "currentAddress": "Test Vehicle Location 17, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH018",
+      "capacity": 700,
+      "currentLatitude": 28.686058,
+      "currentLongitude": 77.087141,
+      "currentAddress": "Test Vehicle Location 18, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH019",
+      "capacity": 600,
+      "currentLatitude": 28.559872,
+      "currentLongitude": 77.285614,
+      "currentAddress": "Test Vehicle Location 19, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH020",
+      "capacity": 400,
+      "currentLatitude": 28.674109,
+      "currentLongitude": 76.96124,
+      "currentAddress": "Test Vehicle Location 20, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH021",
+      "capacity": 500,
+      "currentLatitude": 28.473531,
+      "currentLongitude": 77.096646,
+      "currentAddress": "Test Vehicle Location 21, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH022",
+      "capacity": 800,
+      "currentLatitude": 28.498827,
+      "currentLongitude": 77.060784,
+      "currentAddress": "Test Vehicle Location 22, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH023",
+      "capacity": 400,
+      "currentLatitude": 28.503072,
+      "currentLongitude": 76.870865,
+      "currentAddress": "Test Vehicle Location 23, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH024",
+      "capacity": 600,
+      "currentLatitude": 28.580524,
+      "currentLongitude": 76.893023,
+      "currentAddress": "Test Vehicle Location 24, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH025",
+      "capacity": 800,
+      "currentLatitude": 28.794365,
+      "currentLongitude": 77.054541,
+      "currentAddress": "Test Vehicle Location 25, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH026",
+      "capacity": 700,
+      "currentLatitude": 28.578034,
+      "currentLongitude": 77.444456,
+      "currentAddress": "Test Vehicle Location 26, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH027",
+      "capacity": 700,
+      "currentLatitude": 28.464292,
+      "currentLongitude": 76.94076,
+      "currentAddress": "Test Vehicle Location 27, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH028",
+      "capacity": 800,
+      "currentLatitude": 28.64254,
+      "currentLongitude": 77.335559,
+      "currentAddress": "Test Vehicle Location 28, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH029",
+      "capacity": 700,
+      "currentLatitude": 28.80402,
+      "currentLongitude": 77.10961,
+      "currentAddress": "Test Vehicle Location 29, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH030",
+      "capacity": 500,
+      "currentLatitude": 28.848797,
+      "currentLongitude": 76.939916,
+      "currentAddress": "Test Vehicle Location 30, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH031",
+      "capacity": 700,
+      "currentLatitude": 28.440909,
+      "currentLongitude": 76.880626,
+      "currentAddress": "Test Vehicle Location 31, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH032",
+      "capacity": 400,
+      "currentLatitude": 28.468779,
+      "currentLongitude": 76.953988,
+      "currentAddress": "Test Vehicle Location 32, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH033",
+      "capacity": 700,
+      "currentLatitude": 28.668384,
+      "currentLongitude": 77.100099,
+      "currentAddress": "Test Vehicle Location 33, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH034",
+      "capacity": 800,
+      "currentLatitude": 28.848255,
+      "currentLongitude": 77.193924,
+      "currentAddress": "Test Vehicle Location 34, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH035",
+      "capacity": 800,
+      "currentLatitude": 28.787351,
+      "currentLongitude": 76.857463,
+      "currentAddress": "Test Vehicle Location 35, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH036",
+      "capacity": 400,
+      "currentLatitude": 28.70677,
+      "currentLongitude": 77.199031,
+      "currentAddress": "Test Vehicle Location 36, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH037",
+      "capacity": 600,
+      "currentLatitude": 28.745869,
+      "currentLongitude": 77.071114,
+      "currentAddress": "Test Vehicle Location 37, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH038",
+      "capacity": 600,
+      "currentLatitude": 28.595644,
+      "currentLongitude": 77.14492,
+      "currentAddress": "Test Vehicle Location 38, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH039",
+      "capacity": 600,
+      "currentLatitude": 28.83735,
+      "currentLongitude": 77.345275,
+      "currentAddress": "Test Vehicle Location 39, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH040",
+      "capacity": 800,
+      "currentLatitude": 28.810683,
+      "currentLongitude": 77.415837,
+      "currentAddress": "Test Vehicle Location 40, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH041",
+      "capacity": 600,
+      "currentLatitude": 28.778751,
+      "currentLongitude": 77.179981,
+      "currentAddress": "Test Vehicle Location 41, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH042",
+      "capacity": 500,
+      "currentLatitude": 28.468778,
+      "currentLongitude": 77.345632,
+      "currentAddress": "Test Vehicle Location 42, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH043",
+      "capacity": 800,
+      "currentLatitude": 28.829075,
+      "currentLongitude": 77.449582,
+      "currentAddress": "Test Vehicle Location 43, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH044",
+      "capacity": 400,
+      "currentLatitude": 28.669525,
+      "currentLongitude": 77.167594,
+      "currentAddress": "Test Vehicle Location 44, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH045",
+      "capacity": 400,
+      "currentLatitude": 28.818094,
+      "currentLongitude": 77.421169,
+      "currentAddress": "Test Vehicle Location 45, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH046",
+      "capacity": 600,
+      "currentLatitude": 28.507754,
+      "currentLongitude": 77.006567,
+      "currentAddress": "Test Vehicle Location 46, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH047",
+      "capacity": 800,
+      "currentLatitude": 28.826127,
+      "currentLongitude": 76.905675,
+      "currentAddress": "Test Vehicle Location 47, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH048",
+      "capacity": 700,
+      "currentLatitude": 28.76721,
+      "currentLongitude": 77.48569,
+      "currentAddress": "Test Vehicle Location 48, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH049",
+      "capacity": 800,
+      "currentLatitude": 28.744625,
+      "currentLongitude": 76.933454,
+      "currentAddress": "Test Vehicle Location 49, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH050",
+      "capacity": 700,
+      "currentLatitude": 28.826082,
+      "currentLongitude": 76.957333,
+      "currentAddress": "Test Vehicle Location 50, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH051",
+      "capacity": 800,
+      "currentLatitude": 28.792595,
+      "currentLongitude": 77.12504,
+      "currentAddress": "Test Vehicle Location 51, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH052",
+      "capacity": 500,
+      "currentLatitude": 28.818011,
+      "currentLongitude": 77.340922,
+      "currentAddress": "Test Vehicle Location 52, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH053",
+      "capacity": 500,
+      "currentLatitude": 28.720827,
+      "currentLongitude": 77.109345,
+      "currentAddress": "Test Vehicle Location 53, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH054",
+      "capacity": 600,
+      "currentLatitude": 28.597145,
+      "currentLongitude": 77.186424,
+      "currentAddress": "Test Vehicle Location 54, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH055",
+      "capacity": 400,
+      "currentLatitude": 28.511558,
+      "currentLongitude": 76.891617,
+      "currentAddress": "Test Vehicle Location 55, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH056",
+      "capacity": 400,
+      "currentLatitude": 28.664739,
+      "currentLongitude": 76.999575,
+      "currentAddress": "Test Vehicle Location 56, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH057",
+      "capacity": 500,
+      "currentLatitude": 28.403236,
+      "currentLongitude": 77.310097,
+      "currentAddress": "Test Vehicle Location 57, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH058",
+      "capacity": 400,
+      "currentLatitude": 28.503024,
+      "currentLongitude": 77.438523,
+      "currentAddress": "Test Vehicle Location 58, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH059",
+      "capacity": 600,
+      "currentLatitude": 28.431886,
+      "currentLongitude": 77.004703,
+      "currentAddress": "Test Vehicle Location 59, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH060",
+      "capacity": 700,
+      "currentLatitude": 28.496407,
+      "currentLongitude": 76.936003,
+      "currentAddress": "Test Vehicle Location 60, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH061",
+      "capacity": 800,
+      "currentLatitude": 28.659295,
+      "currentLongitude": 77.007948,
+      "currentAddress": "Test Vehicle Location 61, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH062",
+      "capacity": 700,
+      "currentLatitude": 28.763374,
+      "currentLongitude": 76.973766,
+      "currentAddress": "Test Vehicle Location 62, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH063",
+      "capacity": 400,
+      "currentLatitude": 28.696542,
+      "currentLongitude": 77.080293,
+      "currentAddress": "Test Vehicle Location 63, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH064",
+      "capacity": 700,
+      "currentLatitude": 28.610161,
+      "currentLongitude": 77.323899,
+      "currentAddress": "Test Vehicle Location 64, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH065",
+      "capacity": 400,
+      "currentLatitude": 28.427276,
+      "currentLongitude": 77.323339,
+      "currentAddress": "Test Vehicle Location 65, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH066",
+      "capacity": 400,
+      "currentLatitude": 28.511895,
+      "currentLongitude": 76.973636,
+      "currentAddress": "Test Vehicle Location 66, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH067",
+      "capacity": 700,
+      "currentLatitude": 28.463082,
+      "currentLongitude": 76.969267,
+      "currentAddress": "Test Vehicle Location 67, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH068",
+      "capacity": 700,
+      "currentLatitude": 28.512413,
+      "currentLongitude": 77.450123,
+      "currentAddress": "Test Vehicle Location 68, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH069",
+      "capacity": 700,
+      "currentLatitude": 28.76361,
+      "currentLongitude": 77.406378,
+      "currentAddress": "Test Vehicle Location 69, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH070",
+      "capacity": 400,
+      "currentLatitude": 28.422765,
+      "currentLongitude": 77.499534,
+      "currentAddress": "Test Vehicle Location 70, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH071",
+      "capacity": 400,
+      "currentLatitude": 28.836048,
+      "currentLongitude": 77.452139,
+      "currentAddress": "Test Vehicle Location 71, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH072",
+      "capacity": 500,
+      "currentLatitude": 28.47484,
+      "currentLongitude": 77.165667,
+      "currentAddress": "Test Vehicle Location 72, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH073",
+      "capacity": 500,
+      "currentLatitude": 28.789093,
+      "currentLongitude": 77.436588,
+      "currentAddress": "Test Vehicle Location 73, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH074",
+      "capacity": 500,
+      "currentLatitude": 28.570538,
+      "currentLongitude": 77.490451,
+      "currentAddress": "Test Vehicle Location 74, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH075",
+      "capacity": 600,
+      "currentLatitude": 28.816933,
+      "currentLongitude": 77.360334,
+      "currentAddress": "Test Vehicle Location 75, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH076",
+      "capacity": 600,
+      "currentLatitude": 28.590353,
+      "currentLongitude": 77.472256,
+      "currentAddress": "Test Vehicle Location 76, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH077",
+      "capacity": 800,
+      "currentLatitude": 28.697842,
+      "currentLongitude": 77.166336,
+      "currentAddress": "Test Vehicle Location 77, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH078",
+      "capacity": 500,
+      "currentLatitude": 28.533519,
+      "currentLongitude": 77.479661,
+      "currentAddress": "Test Vehicle Location 78, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH079",
+      "capacity": 800,
+      "currentLatitude": 28.731082,
+      "currentLongitude": 76.889622,
+      "currentAddress": "Test Vehicle Location 79, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH080",
+      "capacity": 600,
+      "currentLatitude": 28.425724,
+      "currentLongitude": 77.229715,
+      "currentAddress": "Test Vehicle Location 80, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH081",
+      "capacity": 800,
+      "currentLatitude": 28.813724,
+      "currentLongitude": 77.195232,
+      "currentAddress": "Test Vehicle Location 81, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH082",
+      "capacity": 400,
+      "currentLatitude": 28.832351,
+      "currentLongitude": 76.902072,
+      "currentAddress": "Test Vehicle Location 82, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH083",
+      "capacity": 500,
+      "currentLatitude": 28.430835,
+      "currentLongitude": 76.894175,
+      "currentAddress": "Test Vehicle Location 83, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH084",
+      "capacity": 500,
+      "currentLatitude": 28.581699,
+      "currentLongitude": 77.462037,
+      "currentAddress": "Test Vehicle Location 84, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH085",
+      "capacity": 800,
+      "currentLatitude": 28.510797,
+      "currentLongitude": 77.236437,
+      "currentAddress": "Test Vehicle Location 85, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH086",
+      "capacity": 800,
+      "currentLatitude": 28.436893,
+      "currentLongitude": 77.277293,
+      "currentAddress": "Test Vehicle Location 86, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH087",
+      "capacity": 800,
+      "currentLatitude": 28.635252,
+      "currentLongitude": 77.457559,
+      "currentAddress": "Test Vehicle Location 87, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH088",
+      "capacity": 500,
+      "currentLatitude": 28.701377,
+      "currentLongitude": 77.05422,
+      "currentAddress": "Test Vehicle Location 88, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH089",
+      "capacity": 600,
+      "currentLatitude": 28.578104,
+      "currentLongitude": 77.286599,
+      "currentAddress": "Test Vehicle Location 89, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH090",
+      "capacity": 600,
+      "currentLatitude": 28.605751,
+      "currentLongitude": 77.453862,
+      "currentAddress": "Test Vehicle Location 90, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH091",
+      "capacity": 400,
+      "currentLatitude": 28.404192,
+      "currentLongitude": 77.253754,
+      "currentAddress": "Test Vehicle Location 91, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH092",
+      "capacity": 800,
+      "currentLatitude": 28.848243,
+      "currentLongitude": 76.897619,
+      "currentAddress": "Test Vehicle Location 92, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH093",
+      "capacity": 500,
+      "currentLatitude": 28.627648,
+      "currentLongitude": 76.936097,
+      "currentAddress": "Test Vehicle Location 93, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH094",
+      "capacity": 600,
+      "currentLatitude": 28.796389,
+      "currentLongitude": 77.421526,
+      "currentAddress": "Test Vehicle Location 94, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH095",
+      "capacity": 600,
+      "currentLatitude": 28.528244,
+      "currentLongitude": 77.13482,
+      "currentAddress": "Test Vehicle Location 95, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH096",
+      "capacity": 800,
+      "currentLatitude": 28.716593,
+      "currentLongitude": 77.247591,
+      "currentAddress": "Test Vehicle Location 96, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH097",
+      "capacity": 800,
+      "currentLatitude": 28.40352,
+      "currentLongitude": 77.381118,
+      "currentAddress": "Test Vehicle Location 97, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH098",
+      "capacity": 600,
+      "currentLatitude": 28.81929,
+      "currentLongitude": 76.917331,
+      "currentAddress": "Test Vehicle Location 98, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH099",
+      "capacity": 500,
+      "currentLatitude": 28.51901,
+      "currentLongitude": 77.428313,
+      "currentAddress": "Test Vehicle Location 99, Delhi NCR, India"
+    },
+    {
+      "vehicleId": "TEST_VEH100",
+      "capacity": 800,
+      "currentLatitude": 28.469952,
+      "currentLongitude": 77.033142,
+      "currentAddress": "Test Vehicle Location 100, Delhi NCR, India"
+    }
+  ]
+}
