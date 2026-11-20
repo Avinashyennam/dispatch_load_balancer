@@ -73,6 +73,10 @@ public class OrderService {
         return orderRepository.saveAll(ordersToSave).size();
     }
 
+    public List<DeliveryOrder> getAllOrders() {
+        return orderRepository.findAll();
+    }
+
     private void mapToEntity(
             OrderRequest request,
             DeliveryOrder order

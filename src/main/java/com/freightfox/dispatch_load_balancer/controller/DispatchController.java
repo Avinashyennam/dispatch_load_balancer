@@ -69,4 +69,16 @@ public class DispatchController {
                 return new ResponseEntity<>(response, HttpStatus.OK);
         }
 
+        @Operation(summary = "Fetch delivery orders")
+        @GetMapping("/orders")
+        public ResponseEntity<?> getOrders() {
+                return ResponseEntity.ok(orderService.getAllOrders());
+        }
+
+        @Operation(summary = "Fetch delivery vehicles")
+        @GetMapping("/vehicles")
+        public ResponseEntity<?> getVehicles() {
+                return ResponseEntity.ok(vehicleService.getAllVehicles());
+        }
+
 }

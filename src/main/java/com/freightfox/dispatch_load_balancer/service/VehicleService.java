@@ -2,6 +2,7 @@
 package com.freightfox.dispatch_load_balancer.service;
 
 import com.freightfox.dispatch_load_balancer.dto.VehicleRequest;
+import com.freightfox.dispatch_load_balancer.entity.DeliveryOrder;
 import com.freightfox.dispatch_load_balancer.entity.Vehicle;
 import com.freightfox.dispatch_load_balancer.repository.VehicleRepository;
 
@@ -72,6 +73,10 @@ public class VehicleService {
                 .toList();
 
         return vehicleRepository.saveAll(vehiclesToSave).size();
+    }
+
+    public List<Vehicle> getAllVehicles() {
+        return vehicleRepository.findAll();
     }
 
     private void mapToEntity(
